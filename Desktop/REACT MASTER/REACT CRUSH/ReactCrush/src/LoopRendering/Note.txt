@@ -1,0 +1,5 @@
+#why use [] outside of object {}.
+
+##using map or array or iterator 
+note :need to writre unique key props(key={person.name})
+note:we can not use key props as a props in child components.its reserven key word

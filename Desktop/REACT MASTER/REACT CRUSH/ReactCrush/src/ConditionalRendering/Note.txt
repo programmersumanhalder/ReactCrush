@@ -1,0 +1,8 @@
+***Four ways to do conditioal rendering ***
+1)if/else
+2)element variable
+3)Ternary Operator(best)
+note: we can use inside of jsx
+4) Short circuit Operator(best)
+note :need to know details
+5)switch case operator
